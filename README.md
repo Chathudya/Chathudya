@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey I'm Chathudya 👋
+![](https://komarev.com/ghpvc/?username=Chathudya)
 
 <!--
 **Chathudya/Chathudya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
